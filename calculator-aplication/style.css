@@ -1,0 +1,37 @@
+.cifra-calculator{
+    font-size: 60px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+
+.button-calculator{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-size: 24px;
+    border-radius: 15px;
+}
+
+.stilizare-div1{
+    text-align: center;
+    width: 800px;
+    margin: auto;
+    background-color: whitesmoke;
+}
+
+.stilizare-div2{
+    padding-bottom: 20px;
+}
+
+.class-body{
+    background-color: #B9B3B5;
+}
+
+.error-simbol{ 
+    background-color: #F3D1CD;
+    margin-left: 25px;
+    margin-right: 25px;
+    display: none;
+}
+
